@@ -1,0 +1,15 @@
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/Task.csproj.AssemblyReference.cache
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/Task.AssemblyInfoInputs.cache
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/Task.AssemblyInfo.cs
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/Task.csproj.CoreCompileInputs.cache
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/bin/Debug/net6.0/Task
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/bin/Debug/net6.0/Task.deps.json
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/bin/Debug/net6.0/Task.runtimeconfig.json
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/bin/Debug/net6.0/Task.dll
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/bin/Debug/net6.0/Task.pdb
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/Task.dll
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/refint/Task.dll
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/Task.pdb
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/Task.genruntimeconfig.cache
+/Users/tylermorgan/code401/ClassCodeAlong/Task_codeAlong/Task/obj/Debug/net6.0/ref/Task.dll
